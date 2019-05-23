@@ -1,0 +1,22 @@
+
+[DEBUG/__main__:26] 2018-09-26 22:38:38 (MainProcess/MainThread)
+> test: hi
+
+[DEBUG/test:26] 2018-09-27 20:11:53 (MainProcess/MainThread)
+> test: hi
+
+[DEBUG/test:26] 2018-09-27 20:27:13 (MainProcess/MainThread)
+> test: hi
+
+[DEBUG:27] 2018-09-27 20:28:14 (test: hi
+
+[INFO:27] 2018-09-27 20:28:29 (test: hi
+
+[INFO:28] 2018-09-27 20:31:10 (test: hi
+2018-09-27 20:31:47
+2018-09-27 20:33:34(CPU Stats)
+2018-09-27 20:33:43(CPU Stats)
+2018-09-27 20:35:42(CPU Stats)
+2018-09-27 20:36:28(CPU Stats,Trying Now)
+2018-09-27 21:56:01(CPU Stats,Trying Now)
+2018-09-27 21:56:43

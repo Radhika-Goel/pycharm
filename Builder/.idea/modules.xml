@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Builder.iml" filepath="$PROJECT_DIR$/.idea/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MonitoringLogs/.idea/MonitoringLogs.iml" filepath="$PROJECT_DIR$/../MonitoringLogs/.idea/MonitoringLogs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Pipeline/.idea/Pipeline.iml" filepath="$PROJECT_DIR$/../Pipeline/.idea/Pipeline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PracticeCode/.idea/PracticeCode.iml" filepath="$PROJECT_DIR$/../PracticeCode/.idea/PracticeCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SparkStreamingPbms/.idea/SparkStreamingPbms.iml" filepath="$PROJECT_DIR$/../SparkStreamingPbms/.idea/SparkStreamingPbms.iml" />
+    </modules>
+  </component>
+</project>

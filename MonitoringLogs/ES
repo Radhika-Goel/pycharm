@@ -1,0 +1,57 @@
+import requests
+import json
+#
+# '''
+url = 'http://localhost:9200/'
+es_up = execute_api(url)
+data = json.loads(es_up)
+print data['name']
+print data
+#
+#
+# shards_url = 'http://localhost:9200/_cat/shards'
+# shards_data = execute_api(shards_url)
+# print shards_data
+# '''
+#
+#
+#
+def execute_api(url):
+     data = requests.get(url)
+     if data.status_code == 200:
+         return data.content
+#
+if __name__ == '__main__':
+     url = 'http://localhost:9200/'
+     es_up = execute_api(url)
+     data = json.loads(es_up)
+     print data['name']
+     print data
+#
+#     ##cat shards
+#     shards_url = 'http://localhost:9200/_cat/shards'
+#     shards_data = execute_api(shards_url)
+#     print shards_data
+#
+#     ##health_api
+#     health_url='http://localhost:9200/_cat/health'
+#     health_data=execute_api(health_url)
+#     print health_data
+#
+#     #List of Nodes
+#     nodes_url='http://localhost:9200/_cat/nodes'
+#     nodes_data=execute_api(nodes_url)
+#     print nodes_data
+##Lst of All Indices
+     indices_url='http://localhost:9200/_cat/indices'
+     indices_data = execute_api(indices_url)
+     print indices_data
+#
+#     #Create An Index
+#     create_index='http://localhost:9200/customer?pretty'
+#     data = requests.put(create_index)
+#     if data.status_code == 200:
+#         print data.content
+#     indices_data = execute_api(indices_url)
+#     print indices_data
+
