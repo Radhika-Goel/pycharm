@@ -2,838 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ffd20ba-bacf-45cc-869c-fa74a07a8b45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Builder.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/.Python" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/AlogoithmsMIT/PeakFinder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/AlogoithmsMIT/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/DivideAndConquer/4_1_binary_search.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/DivideAndConquer/4_2_majority_element.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/DivideAndConquer/4_4_inversions.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/DivideAndConquer/4_5_lottery.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/DivideAndConquer/MajorityElement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/DivideAndConquer/MergeSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/DivideAndConquer/NaivePolyMult.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/DivideAndConquer/NumberOfInversions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/DivideAndConquer/QuickSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/DivideAndConquer/QuickSort3way.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/DivideAndConquer/SelectionSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/DivideAndConquer/binarySearch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/DivideAndConquer/binarySearchEDX.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/DivideAndConquer/kin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/DivideAndConquer/lottery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/DynammicPro/5_3_edit_distance.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/DynammicPro/5_4_lcs2.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/DynammicPro/5_5_lcs3.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/DynammicPro/6_1_knapsack.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/DynammicPro/6_2_souvenirs.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/DynammicPro/EditDistnace.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/DynammicPro/MoneyChangeAgain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/DynammicPro/PrimitiveCalculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/DynammicPro/knapScak01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/DynammicPro/lcs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/DynammicPro/lcs2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/DynammicPro/lcs3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/DynammicPro/paranthesis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/DynammicPro/partitioningSouv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/GreedyALgo/3_2_loot.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/GreedyALgo/3_3_dot_product20180216.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/GreedyALgo/3_4_covering_segments.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/GreedyALgo/CelebrationPartyNaive.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/GreedyALgo/ExampleTotestTime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/GreedyALgo/FibonacciLastDigit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/GreedyALgo/FibonacciNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/GreedyALgo/GCD.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/GreedyALgo/HugeFibmodulo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/GreedyALgo/Kex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/GreedyALgo/KnapSackRecursion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/GreedyALgo/LCM.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/GreedyALgo/LastDigitofSumofFibonacciSeries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/GreedyALgo/MaxAdvertiseRevenue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/GreedyALgo/Product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/GreedyALgo/Sum2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/GreedyALgo/change.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/GreedyALgo/knapSack01pbm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/GreedyALgo/knapsack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/EDX/GreedyALgo/pisanoMethod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/activate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/activate.csh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/activate.fish" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/activate_this.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/chardetect" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/easy_install" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/easy_install-2.7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/pip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/pip2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/pip2.7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/python" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/python-config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/python2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/python2.7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/wheel" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/include/python2.7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/UserDict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/_abcoll.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/_weakrefset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/abc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/codecs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/copy_reg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/distutils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/distutils/distutils.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/encodings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/fnmatch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/genericpath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/lib-dynload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/linecache.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/locale.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/no-global-site-packages.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/ntpath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/orig-prefix.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/os.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/posixpath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/re.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/certifi-2018.8.24.dist-info/DESCRIPTION.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/certifi-2018.8.24.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/certifi-2018.8.24.dist-info/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/certifi-2018.8.24.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/certifi-2018.8.24.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/certifi-2018.8.24.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/certifi-2018.8.24.dist-info/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/certifi-2018.8.24.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/certifi/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/certifi/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/certifi/cacert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/certifi/core.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet-3.0.4.dist-info/DESCRIPTION.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet-3.0.4.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet-3.0.4.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet-3.0.4.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet-3.0.4.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet-3.0.4.dist-info/entry_points.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet-3.0.4.dist-info/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet-3.0.4.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/big5freq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/big5prober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/chardistribution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/charsetgroupprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/charsetprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/cli/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/cli/chardetect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/codingstatemachine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/cp949prober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/enums.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/escprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/escsm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/eucjpprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/euckrfreq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/euckrprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/euctwfreq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/euctwprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/gb2312freq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/gb2312prober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/hebrewprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/jisfreq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/jpcntx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/langbulgarianmodel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/langcyrillicmodel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/langgreekmodel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/langhebrewmodel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/langhungarianmodel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/langthaimodel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/langturkishmodel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/latin1prober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/mbcharsetprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/mbcsgroupprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/mbcssm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/sbcharsetprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/sbcsgroupprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/sjisprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/universaldetector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/utf8prober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet/version.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/easy_install.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/idna-2.7.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/idna-2.7.dist-info/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/idna-2.7.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/idna-2.7.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/idna-2.7.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/idna-2.7.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/idna/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/idna/codec.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/idna/compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/idna/core.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/idna/idnadata.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/idna/intranges.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/idna/package_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/idna/uts46data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-18.0.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-18.0.dist-info/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-18.0.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-18.0.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-18.0.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-18.0.dist-info/entry_points.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-18.0.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/basecommand.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/baseparser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/build_env.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/cache.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/cmdoptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/completion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/configuration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/download.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/freeze.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/hash.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/help.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/install.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/show.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/uninstall.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/wheel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/configuration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/download.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/locations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/models/index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/operations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/operations/check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/operations/freeze.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/operations/prepare.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/pep425tags.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/req/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/req/req_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/req/req_install.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/req/req_set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/req/req_tracker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/req/req_uninstall.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/resolve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/status_codes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/appdirs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/deprecation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/encoding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/filesystem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/glibc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/hashes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/logging.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/misc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/outdated.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/packaging.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/setuptools_build.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/temp_dir.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/typing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/ui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/vcs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/vcs/bazaar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/vcs/git.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/vcs/mercurial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/vcs/subversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/wheel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/appdirs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/_cmd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/adapter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/cache.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/caches/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/controller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/filewrapper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/heuristics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/serialize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/wrapper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/certifi/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/certifi/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/certifi/cacert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/certifi/core.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/big5freq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/big5prober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/chardistribution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/charsetgroupprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/charsetprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/cli/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/cli/chardetect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/codingstatemachine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/cp949prober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/enums.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/escprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/escsm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/eucjpprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/euckrfreq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/euckrprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/euctwfreq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/euctwprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/gb2312freq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/gb2312prober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/hebrewprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/jisfreq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/jpcntx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/langbulgarianmodel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/langcyrillicmodel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/langgreekmodel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/langhebrewmodel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/langhungarianmodel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/langthaimodel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/langturkishmodel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/latin1prober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/mbcharsetprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/mbcsgroupprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/mbcssm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/sbcharsetprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/sbcsgroupprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/sjisprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/universaldetector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/utf8prober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/version.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/colorama/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/colorama/ansi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/colorama/ansitowin32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/colorama/initialise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/colorama/win32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/colorama/winterm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/misc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/shutil.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/sysconfig.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/sysconfig.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/tarfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/locators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/manifest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/markers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/metadata.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/resources.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/scripts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/t32.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/t64.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/version.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/w32.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/w64.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/wheel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/_ihatexml.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/_inputstream.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/_tokenizer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/_trie/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/_trie/_base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/_trie/datrie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/_trie/py.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/alphabeticalattributes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/inject_meta_charset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/lint.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/optionaltags.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/sanitizer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/whitespace.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/html5parser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/serializer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treeadapters/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treeadapters/genshi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treeadapters/sax.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/dom.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/etree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/etree_lxml.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/dom.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/etree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/etree_lxml.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/genshi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/idna/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/idna/codec.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/idna/compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/idna/core.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/idna/idnadata.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/idna/intranges.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/idna/package_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/idna/uts46data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/ipaddress.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/lockfile/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/lockfile/linklockfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/lockfile/mkdirlockfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/lockfile/pidlockfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/lockfile/sqlitelockfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/lockfile/symlinklockfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/msgpack/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/msgpack/_version.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/msgpack/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/msgpack/fallback.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/packaging/__about__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/packaging/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/packaging/_compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/packaging/_structures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/packaging/markers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/packaging/requirements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/packaging/specifiers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/packaging/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/packaging/version.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/pkg_resources/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/pkg_resources/py31compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/progress/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/progress/bar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/progress/counter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/progress/helpers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/progress/spinner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/pyparsing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/pytoml/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/pytoml/core.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/pytoml/parser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/pytoml/writer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/__version__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/_internal_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/adapters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/auth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/certs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/cookies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/help.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/hooks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/sessions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/status_codes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/structures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/retrying.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/six.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/_collections.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/connection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/connectionpool.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/_securetransport/bindings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/_securetransport/low_level.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/appengine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/ntlmpool.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/pyopenssl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/securetransport.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/socks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/fields.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/filepost.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/packages/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/packages/backports/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/packages/backports/makefile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/packages/ordered_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/packages/six.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/_implementation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/poolmanager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/request.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/response.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/util/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/util/connection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/util/queue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/util/request.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/util/response.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/util/retry.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/util/ssl_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/util/timeout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/util/url.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/util/wait.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/webencodings/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/webencodings/labels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/webencodings/mklabels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/webencodings/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/webencodings/x_user_defined.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/_vendor/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/_vendor/appdirs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/__about__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/_compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/_structures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/markers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/requirements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/specifiers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/version.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/_vendor/pyparsing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/_vendor/six.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/extern/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/py31compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/requests-2.19.1.dist-info/DESCRIPTION.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/requests-2.19.1.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/requests-2.19.1.dist-info/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/requests-2.19.1.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/requests-2.19.1.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/requests-2.19.1.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/requests-2.19.1.dist-info/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/requests-2.19.1.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/requests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/requests/__version__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/requests/_internal_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/requests/adapters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/requests/api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/requests/auth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/requests/certs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/requests/compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/requests/cookies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/requests/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/requests/help.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/requests/hooks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/requests/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/requests/packages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/requests/sessions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/requests/status_codes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/requests/structures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/requests/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-40.2.0.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-40.2.0.dist-info/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-40.2.0.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-40.2.0.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-40.2.0.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-40.2.0.dist-info/dependency_links.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-40.2.0.dist-info/entry_points.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-40.2.0.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-40.2.0.dist-info/zip-safe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/_vendor/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/_vendor/packaging/__about__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/_vendor/packaging/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/_vendor/packaging/_compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/_vendor/packaging/_structures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/_vendor/packaging/markers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/_vendor/packaging/requirements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/_vendor/packaging/specifiers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/_vendor/packaging/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/_vendor/packaging/version.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/_vendor/pyparsing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/_vendor/six.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/archive_util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/build_meta.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/cli-32.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/cli-64.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/cli.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/alias.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/bdist_egg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/bdist_rpm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/bdist_wininst.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/build_clib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/build_ext.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/build_py.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/develop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/dist_info.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/easy_install.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/egg_info.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/install.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/install_egg_info.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/install_lib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/install_scripts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/launcher manifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/py36compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/register.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/rotate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/saveopts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/sdist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/setopt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/upload.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/upload_docs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/dep_util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/depends.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/dist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/extension.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/extern/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/glibc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/glob.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/gui-32.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/gui-64.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/gui.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/launch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/lib2to3_ex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/monkey.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/msvc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/namespaces.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/package_index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/pep425tags.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/py27compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/py31compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/py33compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/py36compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/sandbox.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/script (dev).tmpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/script.tmpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/site-patch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/ssl_support.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/unicode_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/version.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/wheel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/windows_support.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3-1.23.dist-info/DESCRIPTION.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3-1.23.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3-1.23.dist-info/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3-1.23.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3-1.23.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3-1.23.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3-1.23.dist-info/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3-1.23.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/_collections.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/connection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/connectionpool.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/contrib/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/contrib/_securetransport/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/contrib/_securetransport/bindings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/contrib/_securetransport/low_level.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/contrib/appengine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/contrib/ntlmpool.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/contrib/pyopenssl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/contrib/securetransport.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/contrib/socks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/fields.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/filepost.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/packages/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/packages/backports/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/packages/backports/makefile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/packages/ordered_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/packages/six.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/packages/ssl_match_hostname/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/packages/ssl_match_hostname/_implementation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/poolmanager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/request.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/response.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/util/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/util/connection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/util/queue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/util/request.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/util/response.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/util/retry.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/util/ssl_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/util/timeout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/util/url.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3/util/wait.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel-0.31.1.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel-0.31.1.dist-info/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel-0.31.1.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel-0.31.1.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel-0.31.1.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel-0.31.1.dist-info/entry_points.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel-0.31.1.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/archive.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/bdist_wheel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/egg2wheel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/install.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/metadata.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/paths.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/pep425tags.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/pkginfo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/signatures/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/signatures/djbec.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/signatures/ed25519py.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/signatures/keys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/tool/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/wininst2wheel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/site.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/sre.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/sre_compile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/sre_constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/sre_parse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/stat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python2.7/warnings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MonitoringLogs/.idea/MonitoringLogs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MonitoringLogs/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MonitoringLogs/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MonitoringLogs/CpuStats.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MonitoringLogs/ES" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MonitoringLogs/KafProd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MonitoringLogs/KafkaComplete.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MonitoringLogs/KafkaCon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MonitoringLogs/WritetoES.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MonitoringLogs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MonitoringLogs/elasticConsumerExample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MonitoringLogs/example.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MonitoringLogs/myapp.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MonitoringLogs/myapp1.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MonitoringLogs/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MonitoringLogs/writeES.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Queue/Queue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/BinaryTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/BuildkaryTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/FillSibling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/GenericTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/IsBST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/MaxDataInTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/Mirror.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/PreoDerFromString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/Queue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/SearchElement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/SizeofBinaryTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/SuminBinaryTreeLevelOrder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/VerticalSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/childrenCount.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/deletetree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/heighttree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/levelOder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/levelordertravelinReverse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/pathFinder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/printAncestors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/roottoleafpath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/zigzagtraversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeCode/Geeks/NumnerToRoman.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeCode/Geeks/Pairs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeCode/HackerRankChallenges/PariSocks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeCode/HackerRankChallenges/challenge1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeCode/HackerRankChallenges/challenge2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeCode/HackerRankChallenges/regex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeCode/HackerRankChallenges/regex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SparkStreamingPbms/.idea/SparkStreamingPbms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SparkStreamingPbms/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SparkStreamingPbms/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SparkStreamingPbms/SparkCh2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SparkStreamingPbms/SparkDirectS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SparkStreamingPbms/SparkSql1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SparkStreamingPbms/SparkSql2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SparkStreamingPbms/SparkStream1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SparkStreamingPbms/myfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SparkStreamingPbms/tempclass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SparkStreamingPbms/wordCount.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/HackerRank9July.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/India-wiki.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/PyData.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/PyData1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/SelectionSort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/TechGig/Day1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/TechGig/Day2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/akamai.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/amazondset.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/binarySearch.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/bubbleSort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/druv.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/druvaChallenge.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/factorial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/hackerRank/AcidNaming.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/hackerRank/BigSorting.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/hackerRank/CircularRotation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/hackerRank/DoorLockUnlock.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/hackerRank/Grading.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/hackerRank/MagicSquare.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/hackerRank/MinMax.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/hackerRank/NonDivisibleSubset.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/hackerRank/PickingNumbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/hackerRank/RoadsAndLibraries.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/hackerRank/Summer_Lesson.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/hackerRank/SuperReducedString.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/hackerRank/maglev-cisco.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/hackerRank/timeformat.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/jailbreak.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/linearS2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/linearSearch.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/multilineInput.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/surpasser.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/test2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/Challenges/testfre.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/DivideAndConquer/Calculatekn.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/DivideAndConquer/Calculatekn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/DivideAndConquer/ClosestPairofPoints.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/DivideAndConquer/ClosestPairofPoints.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/DivideAndConquer/MedianElementFrom2ArraysMandN.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/DivideAndConquer/MedianElementFrom2ArraysMandN.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/DivideAndConquer/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/DivideAndConquer/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/DynamicProgramming/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/DynamicProgramming/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/HashTable.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/HashTable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Hashing/BloomFilter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Hashing/BloomFilter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Hashing/BothArraysHaveSameSet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Hashing/BothArraysHaveSameSet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Hashing/FindSymmetricPairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Hashing/FindSymmetricPairs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Hashing/FirstDuplicateChars.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Hashing/FirstDuplicateChars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Hashing/FirstnonRepeatChar.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Hashing/FirstnonRepeatChar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Hashing/HashTable.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Hashing/HashTable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Hashing/RemoveDuplicates.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Hashing/RemoveDuplicates.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Hashing/RemovingSpecifiedCharacters.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Hashing/RemovingSpecifiedCharacters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Hashing/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Hashing/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/LinkedList/DoubleLinkedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/LinkedList/DoubleLinkedList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/LinkedList/HashTable.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/LinkedList/HashTable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/LinkedList/Problem1-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/LinkedList/Problem1-6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/LinkedList/UnrolledLinkedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/LinkedList/UnrolledLinkedList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/LinkedList/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/LinkedList/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/LinkedList/linkedlist.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/LinkedList/linkedlist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/LinkedList/pbm7-10.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/LinkedList/pbm7-10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/MergerOneArray2Another.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/MergerOneArray2Another.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Searching/SmallestElementSearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Searching/SmallestElementSearch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Searching/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Searching/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Searching/binarySearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Searching/binarySearch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/SelectionAlgo/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/SelectionAlgo/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/SelectionAlgo/largestAndSmallest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/SelectionAlgo/largestAndSmallest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/SelectionAlgo/largestElement.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/SelectionAlgo/largestElement.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Sorting/InsertionSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Sorting/InsertionSort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Sorting/QuickSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Sorting/QuickSort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Sorting/Selectionsort.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Sorting/Selectionsort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Sorting/ShellSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Sorting/ShellSort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Sorting/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Sorting/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Sorting/bubbleSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Sorting/bubbleSort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Sorting/mergeSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Sorting/mergeSort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Sorting/pbm-9.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Sorting/pbm-9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Sorting/pbm1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Sorting/pbm1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Sorting/pbm3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Sorting/pbm3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Sorting/problem-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Sorting/problem-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Sorting/radiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Sorting/radiz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Sorting/sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Sorting/sample.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Stacks/Stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Stacks/Stack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Stacks/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Stacks/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Stacks/parChecker.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Stacks/parChecker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Stacks/postfix.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Stacks/postfix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Stacks/postfixEvaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Stacks/postfixEvaluation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Stacks/prefix.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Stacks/prefix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/BinarySearchTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/BinarySearchTree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/binaryTreeLinked.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/binaryTreeLinked.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/binarytreeList.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/binarytreeList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/inorder.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/inorder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/parseTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/parseTree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/preorder.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/preorder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/etc-passwd" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/etc-passwd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/file1" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/file1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/queue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/towerHanoi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/towerHanoi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/DataStructures/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeCode/DataStructures/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/_mac/git.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/_mac/laf.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/code.style.schemes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/codestyles/Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/colors.scheme.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/ide.general.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeCode/ui.lnf.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/certifi-2018.8.24.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/certifi-2018.8.24.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet-3.0.4.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/chardet-3.0.4.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/idna-2.7.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/idna-2.7.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-18.0.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-18.0.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/_vendor/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/_vendor/pyparsing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/requests-2.19.1.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/requests-2.19.1.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-40.2.0.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-40.2.0.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/_vendor/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/_vendor/pyparsing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3-1.23.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/urllib3-1.23.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel-0.31.1.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel-0.31.1.dist-info/RECORD" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -845,20 +24,21 @@
     <session id="-1189922667">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.13" value="3" />
           <entry key="project.open.time.14" value="2" />
-          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="5" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="20" />
+          <entry key="project.opened" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -868,7 +48,8 @@
           <entry key="Python Console" value="46" />
           <entry key="dummy" value="34" />
           <entry key="myfile" value="54" />
-          <entry key="py" value="34931" />
+          <entry key="py" value="37764" />
+          <entry key="txt" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -879,7 +60,7 @@
           <entry key="json" value="2" />
           <entry key="log" value="3" />
           <entry key="myfile" value="1" />
-          <entry key="py" value="362" />
+          <entry key="py" value="382" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
@@ -887,13 +68,13 @@
         <counts>
           <entry key="JSON" value="2" />
           <entry key="PLAIN_TEXT" value="35" />
-          <entry key="Python" value="364" />
+          <entry key="Python" value="384" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="88" />
-          <entry key="Python" value="35799" />
+          <entry key="PLAIN_TEXT" value="104" />
+          <entry key="Python" value="38632" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -905,111 +86,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/VerticalSum.py">
+        <entry file="file://$PROJECT_DIR$/../PracticeCode/HackerRankChallenges/regex1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="28" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="28" />
+            <state relative-caret-position="120">
+              <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/SearchElement.py">
+        <entry file="file://$PROJECT_DIR$/../PracticeCode/HackerRankChallenges/regex2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="53" selection-start-line="1" selection-start-column="53" selection-end-line="1" selection-end-column="53" />
-              <folding>
-                <marker date="1558402976999" expanded="true" signature="85:87" ph="..." />
-                <marker date="1558402976999" expanded="true" signature="312:314" ph="..." />
-              </folding>
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/BinaryTree.py">
+        <entry file="file://$PROJECT_DIR$/../PracticeCode/HackerRankChallenges/regex3tags.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="63" column="23" selection-start-line="63" selection-start-column="23" selection-end-line="63" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/levelOder.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/levelordertravelinReverse.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="e#0#53#0" expanded="true" />
-                <marker date="1558574522681" expanded="true" signature="207:209" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/BinarySearchTree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="55" column="41" lean-forward="true" selection-start-line="55" selection-start-column="41" selection-end-line="55" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/deletetree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <marker date="1558599132178" expanded="true" signature="27:29" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Stacks/Stack.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
-              <folding>
-                <marker date="1558574504578" expanded="true" signature="532:541" ph="..." />
-              </folding>
+            <state relative-caret-position="375">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/SizeofBinaryTree.py">
+        <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/deleteNodeBST.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="47" column="15" selection-start-line="47" selection-start-column="15" selection-end-line="47" selection-end-column="15" />
-              <folding>
-                <marker date="1558599132173" expanded="true" signature="83:85" ph="..." />
-                <marker date="1558599132173" expanded="true" signature="219:221" ph="..." />
-                <marker date="1558599132173" expanded="true" signature="495:497" ph="..." />
-                <marker date="1558599132173" expanded="true" signature="602:604" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/printAncestors.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+            <state relative-caret-position="420">
+              <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -1042,16 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../PracticeCode/InterViewQues/ConvertToBinary.py" />
-        <option value="$PROJECT_DIR$/../PracticeCode/Challenges/hackerRank/SecondRunnerUp.py" />
-        <option value="$PROJECT_DIR$/../PracticeCode/Challenges/hackerRank/MinMax.py" />
-        <option value="$PROJECT_DIR$/../PracticeCode/Challenges/hackerRank/NestedListsExample.py" />
-        <option value="$PROJECT_DIR$/../PracticeCode/Geeks/SumArraySum.py" />
-        <option value="$PROJECT_DIR$/../PracticeCode/HackerRankChallenges/SecondRunnerUp.py" />
-        <option value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/binarytreeList.py" />
-        <option value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/parseTree.py" />
-        <option value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/buildHeap.py" />
-        <option value="$PROJECT_DIR$/../PracticeCode/HackerRankChallenges/swapCase.py" />
         <option value="$PROJECT_DIR$/../PracticeCode/Geeks/CountBitsInteger" />
         <option value="$PROJECT_DIR$/../PracticeCode/Geeks/NumnerToRoman.py" />
         <option value="$PROJECT_DIR$/../PracticeCode/Geeks/Pairs.py" />
@@ -1079,20 +176,30 @@
         <option value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/FillSibling.py" />
         <option value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Queue/Queue.py" />
         <option value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/GenericTree.py" />
-        <option value="$PROJECT_DIR$/../PracticeCode/HackerRankChallenges/regex2.py" />
         <option value="$PROJECT_DIR$/../PracticeCode/HackerRankChallenges/challenge1.py" />
         <option value="$PROJECT_DIR$/../PracticeCode/HackerRankChallenges/challenge2.py" />
         <option value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/BuildkaryTree.py" />
         <option value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/childrenCount.py" />
         <option value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/IsBST.py" />
         <option value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/SearchElement.py" />
-        <option value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/BinaryTree.py" />
         <option value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/levelOder.py" />
         <option value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Stacks/Stack.py" />
         <option value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/levelordertravelinReverse.py" />
         <option value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/BinarySearchTree.py" />
         <option value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/deletetree.py" />
         <option value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/SizeofBinaryTree.py" />
+        <option value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/deepestNode.py" />
+        <option value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/FindNoofLeabves.py" />
+        <option value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/FullNodes.py" />
+        <option value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/HalfNodes.py" />
+        <option value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/DiameterTree.py" />
+        <option value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/BinaryTree.py" />
+        <option value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/FindLevelWithMaxSum.py" />
+        <option value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/findMaxSum.py" />
+        <option value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/findDepthinGenericTree.py" />
+        <option value="$PROJECT_DIR$/../PracticeCode/HackerRankChallenges/regex2.py" />
+        <option value="$PROJECT_DIR$/../PracticeCode/HackerRankChallenges/regex3tags.py" />
+        <option value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/deleteNodeBST.py" />
       </list>
     </option>
   </component>
@@ -1109,7 +216,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1133,19 +239,13 @@
               <item name="PracticeCode" type="462c0819:PsiDirectoryNode" />
               <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
               <item name="DSBookProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="Stacks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Builder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PracticeCode" type="462c0819:PsiDirectoryNode" />
-              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
-              <item name="DSBookProblems" type="462c0819:PsiDirectoryNode" />
               <item name="Trees" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1183,8 +283,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.levelordertravelinReverse">
-    <configuration name="BinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.regex3tags">
+    <configuration name="MaxDataInTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PracticeCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1196,7 +296,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/BinaryTree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/MaxDataInTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1205,7 +305,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BuildkaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="VerticalSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PracticeCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1217,7 +317,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/BuildkaryTree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/VerticalSum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1226,7 +326,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="levelOder" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="findDepthinGenericTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PracticeCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1238,7 +338,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/levelOder.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/findDepthinGenericTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1247,7 +347,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="levelordertravelinReverse" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="regex2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PracticeCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1255,11 +355,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PracticeCode/HackerRankChallenges" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/levelordertravelinReverse.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PracticeCode/HackerRankChallenges/regex2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1268,7 +368,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="printAncestors" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="regex3tags" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PracticeCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1276,11 +376,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PracticeCode/HackerRankChallenges" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/printAncestors.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PracticeCode/HackerRankChallenges/regex3tags.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1290,19 +390,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.printAncestors" />
-      <item itemvalue="Python.BuildkaryTree" />
-      <item itemvalue="Python.BinaryTree" />
-      <item itemvalue="Python.levelOder" />
-      <item itemvalue="Python.levelordertravelinReverse" />
+      <item itemvalue="Python.VerticalSum" />
+      <item itemvalue="Python.MaxDataInTree" />
+      <item itemvalue="Python.findDepthinGenericTree" />
+      <item itemvalue="Python.regex2" />
+      <item itemvalue="Python.regex3tags" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.levelordertravelinReverse" />
-        <item itemvalue="Python.levelOder" />
-        <item itemvalue="Python.BinaryTree" />
-        <item itemvalue="Python.printAncestors" />
-        <item itemvalue="Python.BuildkaryTree" />
+        <item itemvalue="Python.regex3tags" />
+        <item itemvalue="Python.regex2" />
+        <item itemvalue="Python.findDepthinGenericTree" />
+        <item itemvalue="Python.MaxDataInTree" />
+        <item itemvalue="Python.VerticalSum" />
       </list>
     </recent_temporary>
   </component>
@@ -1317,6 +417,14 @@
       <option name="presentableId" value="Default" />
       <updated>1536024251670</updated>
     </task>
+    <task id="LOCAL-00001" summary="TreesPractice">
+      <created>1558599378489</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558599378490</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1329,22 +437,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="827" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49392712" visible="true" weight="0.24242425" />
       <window_info id="Structure" order="1" sideWeight="0.5060729" side_tool="true" weight="0.24242425" />
       <window_info id="Favorites" order="2" sideWeight="0.5060729" side_tool="true" weight="0.24242425" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3292517" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4982382" visible="true" weight="0.29638556" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4982382" visible="true" weight="0.24217688" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49964765" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3292517" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3292517" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.38639456" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5017618" side_tool="true" visible="true" weight="0.29638556" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5017618" side_tool="true" weight="0.2433735" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32789117" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1373,6 +480,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TreesPractice" />
+    <option name="LAST_COMMIT_MESSAGE" value="TreesPractice" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints-dialog>
@@ -1388,72 +499,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../PracticeCode/HackerRankChallenges/Summer_Lesson.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-852" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PracticeCode/HackerRankChallenges/SecondRunnerUp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PracticeCode/Geeks/SumArraySum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PracticeCode/InterViewQues/logicgate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1343" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PracticeCode/InterViewQues/ConvertToBinary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PracticeCode/Geeks/NumnerToRoman.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/parseTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PracticeCode/Geeks/CountBitsInteger">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PracticeCode/HackerRankChallenges/swapCase.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PracticeCode/Geeks/Pairs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/inorder.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -1506,27 +551,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/roottoleafpath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="47" lean-forward="true" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/SuminBinaryTreeLevelOrder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PracticeCode/HackerRankChallenges/regex1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/PreoDerFromString.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1566,9 +590,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="1" selection-end-column="58" />
-          <folding>
-            <element signature="e#0#53#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1583,9 +604,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#53#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1622,32 +640,10 @@
         <state relative-caret-position="-292" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PracticeCode/HackerRankChallenges/regex2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/childrenCount.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-          <folding>
-            <marker date="1558060201688" expanded="true" signature="27:29" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/BuildkaryTree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
-          <folding>
-            <marker date="1558059722909" expanded="true" signature="74:76" ph="..." />
-            <marker date="1558059722909" expanded="true" signature="174:176" ph="..." />
-            <marker date="1558059722909" expanded="true" signature="606:608" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1655,27 +651,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-          <folding>
-            <marker date="1558401608996" expanded="true" signature="16:17" ph="..." />
-            <marker date="1558401608996" expanded="true" signature="16:19" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/MaxDataInTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="53" />
-          <folding>
-            <element signature="e#1#59#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/VerticalSum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -1690,17 +665,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="53" selection-start-line="1" selection-start-column="53" selection-end-line="1" selection-end-column="53" />
-          <folding>
-            <marker date="1558402976999" expanded="true" signature="85:87" ph="..." />
-            <marker date="1558402976999" expanded="true" signature="312:314" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/BinaryTree.py">
+    <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/FullNodes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="63" column="23" selection-start-line="63" selection-start-column="23" selection-end-line="63" selection-end-column="23" />
+        <state relative-caret-position="165">
+          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/SizeofBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="47" column="15" selection-start-line="47" selection-start-column="15" selection-end-line="47" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Stacks/Stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/deletetree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -1711,54 +703,136 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Stacks/Stack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
-          <folding>
-            <marker date="1558574504578" expanded="true" signature="532:541" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/levelordertravelinReverse.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#0#53#0" expanded="true" />
-            <marker date="1558574522681" expanded="true" signature="207:209" ph="..." />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/DiameterTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/BinarySearchTree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="55" column="41" lean-forward="true" selection-start-line="55" selection-start-column="41" selection-end-line="55" selection-end-column="41" />
+        <state relative-caret-position="825">
+          <caret line="55" column="41" selection-start-line="55" selection-start-column="41" selection-end-line="55" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/deletetree.py">
+    <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/BinaryTree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <marker date="1558599132178" expanded="true" signature="27:29" ph="..." />
-          </folding>
+        <state relative-caret-position="407">
+          <caret line="80" column="1" selection-start-line="80" selection-start-column="1" selection-end-line="80" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/SizeofBinaryTree.py">
+    <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/SuminBinaryTreeLevelOrder.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="47" column="15" selection-start-line="47" selection-start-column="15" selection-end-line="47" selection-end-column="15" />
-          <folding>
-            <marker date="1558599132173" expanded="true" signature="83:85" ph="..." />
-            <marker date="1558599132173" expanded="true" signature="219:221" ph="..." />
-            <marker date="1558599132173" expanded="true" signature="495:497" ph="..." />
-            <marker date="1558599132173" expanded="true" signature="602:604" ph="..." />
-          </folding>
+        <state relative-caret-position="120">
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/FindNoofLeabves.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/VerticalSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="16" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/HalfNodes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="110" selection-start-line="11" selection-start-column="110" selection-end-line="11" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/FindLevelWithMaxSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/findMaxSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/findDepthinGenericTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/MaxDataInTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="28" column="26" lean-forward="true" selection-start-line="1" selection-end-line="2" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/roottoleafpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-163">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/childrenCount.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/deepestNode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PracticeCode/HackerRankChallenges/regex1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PracticeCode/HackerRankChallenges/regex2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PracticeCode/HackerRankChallenges/regex3tags.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PracticeCode/DataStructures/DSBookProblems/Trees/deleteNodeBST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
         </state>
       </provider>
     </entry>
